@@ -1,0 +1,36 @@
+Data being analysised in this section
+(Only AvgAnnHrsWrk has analysis with missing value and no missing value)
+
+df_AvgAnnHrsWrk # Average annual hours worked
+
+df_AvgAnnHrsWrk_2010 # Average annual hours worked in 2010
+df_AvgAnnHrsWrk_2013 #                                2013
+df_AvgAnnHrsWrk_2016 #                                2016
+df_AvgAnnHrsWrk_2019 # Average annual hours worked in 2019
+training_df_AvgAnnHrsWrk # Average annual hours worked for training set
+testing_df_AvgAnnHrsWrk # Average annual hours worked for testing set
+
+
+df_AvgAnnWages # Average annual wages and salaries
+
+df_AvgHrsWages # Average hourly wage
+
+df_AvgWeekHrsWrked # Average weekly hours worked
+
+df_Hrs_Wrked # Hours Worked
+
+df_NumOfJob # Number of jobs
+
+df_WagesAndSalaries # Wages and Salaries
+... ...
+testing_df_WagesAndSalaries_ByAge          # By Age
+testing_df_WagesAndSalaries_ByGender       # By Gender Group
+testing_df_WagesAndSalaries_ByEducation    # By Education level
+testing_df_WagesAndSalaries_ByImmigrant    # By Immigrant level
+testing_df_WagesAndSalaries_ByIndigenous   # By Indigenous status
+
+
+
+
+
+
