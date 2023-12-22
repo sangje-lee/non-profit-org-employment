@@ -1,8 +1,12 @@
 # Analysis of non-profit-organization in Canada before 2021
 
 # Written Final Report
-https://github.com/sangje-lee/non-profit-org-employment/blob/master/Sangjin_Eric_Lee_cind820-Final_Report.pdf (Report)<br />
-https://github.com/sangje-lee/non-profit-org-employment/blob/master/Sangjin_Eric_Lee_cind820-Final_Report-output.pdf (Output)
+https://github.com/sangje-lee/non-profit-org-employment/blob/master/Document-Report/Sangjin_Eric_Lee_cind820-Final_Report.pdf (Report)<br />
+https://github.com/sangje-lee/non-profit-org-employment/blob/master/Document-Report/Sangjin_Eric_Lee_cind820-Final_Report-output.pdf (Output)
+
+# Presentation Slides
+https://github.com/sangje-lee/non-profit-org-employment/blob/master/Document-Report/Sangjin_Eric_Lee_cind820_Presentation_Shorten.pdf (Shorten version)<br />
+https://github.com/sangje-lee/non-profit-org-employment/blob/master/Document-Report/Sangjin_Eric_Lee_cind820_Presentation_Detailed.pdf (Detailed version)
 
 # Process of this analysis
 <ul>
