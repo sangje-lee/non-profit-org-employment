@@ -9,8 +9,8 @@ https://github.com/sangje-lee/non-profit-org-employment/blob/master/Document-Rep
 https://github.com/sangje-lee/non-profit-org-employment/blob/master/Document-Report/Sangjin_Eric_Lee_cind820_Presentation_Detailed.pdf (Detailed version)
 
 # Instruction
-https://github.com/sangje-lee/non-profit-org-employment/blob/master/Document-Report/Instruction.pdf (Instruction in PDF)
-https://github.com/sangje-lee/non-profit-org-employment/blob/master/Instruction.html (Instruction in PDF)
+https://github.com/sangje-lee/non-profit-org-employment/blob/master/Document-Report/Instruction.pdf (Instruction in PDF)<br />
+https://github.com/sangje-lee/non-profit-org-employment/blob/master/Instruction.html (Instruction in HTML)
 
 # Process of this analysis
 <ul>
